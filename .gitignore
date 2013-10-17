@@ -1,0 +1,7 @@
+.DS_Store
+.RData
+.RHistory
+*.Rout
+*.key
+build/*
+tumblr/*
